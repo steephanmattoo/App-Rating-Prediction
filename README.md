@@ -1,3 +1,4 @@
+# App Rating Prediction
 This project was completed as a part of assessment for Data Analytics with Python module. We used different Python libraries such as NumPy, SciPy, Pandas, scikit-learn and matplotlib to complete the given analysis and visualization tasks To perform these tasks, you can use any of the different Python libraries such as NumPy, SciPy, Pandas, scikit-learn and matplotlib.
 
 The ability to use services and products on the go has been a major leap in this century. Applications on the Google play store aim to do exactly that. Owing to worldwide accessibility and the ease of use, it has not only become the most popular application download destination but also a hotbed for competing services to attract and gain customers. This project aims to employ machine learning & visual analytics concepts to gain insights into how applications become successful and achieve high user ratings.
